@@ -16,3 +16,63 @@ Kabase Swap - Decentralized Exchange: Kabosu introduces Kabase Swap, a decentral
 Website Token Locker: Safeguarding assets is paramount in the crypto space. Kabosu's Website Token Locker provides users with a secure solution to lock their tokens and protect against potential security threats.
 
 Buy Bot: The Buy Bot automates the process of purchasing tokens, offering users a hassle-free way to participate in token buy notification.
+# TOKEN INFORMATION
+TOTAL SUPPLY : 69,000,000,000,000
+
+5% SUPPLY FOR CEX LISTING
+
+TAX
+BUY : 3% 
+SELL : 3%
+
+1% BACK TO LIQUIDITY
+2% MARKETING
+
+MAX WALLET & MAX TX
+REMOVE LIMIT
+
+PAIR : ETH 
+# ROADMAP
+Phase 1: Foundation (Q3 2023)
+
+Project Inception: Conceptualization and formation of the Kabosu project.
+Team Formation: Assemble a skilled and dedicated team of developers, blockchain experts, community managers and marketing team.
+Whitepaper Development: Create a comprehensive and detailed whitepaper outlining the project's vision, goals, features, and tokenomics.
+Smart Contract Development: Initiate the development of the smart contract for the KABOSU token, ensuring security and efficiency.
+
+Phase 2: FairLaunch Preparations (Q4 2023)
+
+Token Launch : Fairlaunch on Base network (leetswap)
+Community Building: Start building a vibrant and engaged community through social media, forums, and marketing efforts.
+Smart Contract Audit: Conduct a thorough security audit of the smart contract to ensure it meets the highest industry standards.
+Partnerships and Collaborations: Establish strategic partnerships with other projects, influencers, and platforms to expand the project's reach.
+Website and Token Locker Development: Develop the official project website and the Kabosu Locker solution for liquidity locking.
+
+Phase 3:Listing (Q1 2024)
+
+Exchange Listings: Negotiate listings on reputable cryptocurrency exchanges to increase liquidity and accessibility of the KABOSU token.
+Initial Exchange Offerings (IEO): Explore IEO opportunities on exchange platforms to further increase exposure.
+
+Phase 4: Ecosystem Development (Q2 2024)
+
+Kabase Swap Development: Commence the development of Kabase Swap, the decentralized exchange, with a user-friendly interface and efficient trading mechanics.
+Website Token Locker Integration: Integrate the Website Token Locker solution into the project website, allowing users to secure their tokens.
+Buy Bot Implementation: Develop and deploy the autonomous Buy Bot protocol, simplifying token purchases for users.
+
+Phase 5: Ecosystem Expansion (Q3 2024)
+
+Kabase Swap Launch: Launch Kabase Swap, enabling users to trade various cryptocurrencies within the Kabosu ecosystem securely.
+Partnership Expansions: Forge new partnerships to enhance liquidity and increase utility for the KABO token.
+Community Governance Implementation: Initiate the implementation of decentralized governance mechanisms, allowing community members to propose and vote on important decisions.
+
+Phase 6: Adoption and Integration (Q4 2024)
+
+Mass Adoption Campaign: Accelerate efforts to promote and increase adoption of the Kabosu ecosystem through marketing, educational initiatives, and community incentives.
+Integration with DeFi Projects: Explore partnerships and integrations with other DeFi projects to expand the utility and reach of the KABO token.
+Mobile App Development: Develop a user-friendly mobile application for seamless access to the Kabosu ecosystem and its features.
+
+Phase 7: Continued Growth (Beyond 2024)
+
+Constant Improvements: Continue to enhance and refine the Kabosu ecosystem based on community feedback and emerging industry trends.
+New Features and Innovations: Introduce new features and innovations to maintain Kabosu's competitive edge and adapt to evolving market demands.
+Global Community Engagement: Foster an active and engaged global community through regular updates, events, and initiatives.
