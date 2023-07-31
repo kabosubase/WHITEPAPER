@@ -1,1 +1,3 @@
-# WHITEPAPER
+# ABSTRACT
+The Kabosu project is a cutting-edge cryptocurrency initiative launched on the BASE network, built with a vision to establish a robust and secure ecosystem. Driven by a dedicated team of experienced developers and blockchain enthusiasts, Kabosu aims to revolutionize decentralized finance (DeFi) by introducing innovative features such as Kabase Swap, Website Token Locker, Buy Bot, and more. With a focus on user safety, transparency, and accessibility, Kabosu strives to empower the global community to participate in the decentralized economy securely and effortlessly.
+![image](https://github.com/officialbase/WHITEPAPER/assets/141009237/c755a990-aa4f-4395-83da-1a03b2256eae)
